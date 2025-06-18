@@ -1,0 +1,53 @@
+{
+   "abstract" : "interface to the Wx::TreeListCtrl class",
+   "author" : [
+      "Mark Wardell <mwardell@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 6.56, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "unknown"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Wx-TreeListCtrl",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "Wx::build::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Wx" : "0.57"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "X_keywords" : [
+         "tree",
+         "data control",
+         "GUI",
+         "wx"
+      ],
+      "repository" : {
+         "url" : "https://wxperltreelistctrl.googlecode.com/svn/trunk"
+      }
+   },
+   "version" : "0.13",
+   "x_serialization_backend" : "JSON version 4.10"
+}
