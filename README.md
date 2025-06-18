@@ -88,3 +88,11 @@ OpenGL
 Você pode instalá-los com `cpan` ou `cpanm`, conforme sua preferência.
 
 ---
+
+## Compilando o OPK
+
+Finalizada a instalação de todos os passos, rode o openkore com
+
+```bash
+perl openkore.pl --interface=Wx
+```
