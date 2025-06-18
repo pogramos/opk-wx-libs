@@ -1,3 +1,6 @@
+
+Win32::Console
+Win32::GUI
 Wx::Demo
 Wx::GLCanvas
 Wx::Perl::Packager
@@ -11,5 +14,3 @@ File::chdir
 Text::Balanced
 Digest::MD5
 OpenGL
-Win::Console
-Win::GUI
